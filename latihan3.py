@@ -1,0 +1,11 @@
+nama = input("Siapa nama kamu? ")
+umur = input("Berapa umur kamu? ")
+kota = input("Kamu dari mana? ")
+hobi = input("apa hobi kamu?")
+pendidikan = input("SD, SMP, SMA/SMK, KULIAH)
+
+print("Halo,", nama, "!")
+print("Umur:", umur, "tahun")
+print("Asal:", kota)
+print("hobi:", hobi)
+print("pendidikan:", pendidikan)
